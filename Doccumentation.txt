@@ -1,0 +1,11 @@
+Developed By- Mind Benders
+Member: Oleraj Mondol (072)
+	Ishmoth Aura Nuri (237)
+	Fahmida Ahmed Feha (055)
+
+----------------------------------------------
+To Run Project:
+	1st- NOFStudio folder in Xamp>htdoc
+	2nd- Run xamp and type on browser http://localhost/NOFStudio/index.php
+	3rd- Then browse http://localhost/phpmyadmin/ and Import User.sql file on database
+	4th- Now follow 2nd Step and enjoy NOFStudio.
